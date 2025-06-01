@@ -16,7 +16,7 @@ This project implements a Task Management API that allows users to create, read,
 
 <!-- Place your component diagram image or Mermaid code below -->
 
-![img.png](img.png)
+![img_2.png](img_2.png)
 
 <!-- Or use Mermaid syntax:
 ```mermaid
