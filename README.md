@@ -65,8 +65,11 @@ cd Task_Manager
 git clone <repository-url>
 cd Task_Manager
 
-# Build and run with Docker Compose
-docker-compose up -d
+# Build the Docker image
+docker build -t task-manager .
+
+# Run the container
+docker run -p 8080:8080 task-manager
 ```
 
 ## API Usage Examples
