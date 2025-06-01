@@ -12,6 +12,18 @@ This project implements a Task Management API that allows users to create, read,
 - Spring MVC for building RESTful APIs
 - Docker for containerization
 
+## Component Diagram
+
+<!-- Place your component diagram image or Mermaid code below -->
+
+![img.png](img.png)
+
+<!-- Or use Mermaid syntax:
+```mermaid
+<PASTE YOUR MERMAID DIAGRAM CODE HERE>
+```
+-->
+
 ## Features
 
 - CRUD operations for tasks
